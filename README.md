@@ -1,4 +1,4 @@
-# 🌐 Refresh Browser
+# 🌐 Browser Refresh
 
 A VBScript automation that refreshes the active web browser.
 
